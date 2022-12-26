@@ -1,7 +1,7 @@
 package ru.ainurforex.QuestOne.model.map.types;
 
 public enum UnitType {
-    NONE(0),
+    NONEUNIT(0),
     TOWER(1),
     SHOP(2),
     GATES(3),

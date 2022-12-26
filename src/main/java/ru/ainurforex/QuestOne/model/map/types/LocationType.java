@@ -1,7 +1,7 @@
 package ru.ainurforex.QuestOne.model.map.types;
 
 public enum LocationType {
-    NONE(0),
+    NONELOCATION(0),
     BUILDING(1),
     CAMP(2),
     VILAGE(3),

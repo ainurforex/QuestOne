@@ -23,7 +23,7 @@ public class Location {
     public Location() {
         this.name = "none";
         this.discription = "none";
-        this.locationType = NONE;
+        this.locationType = NONELOCATION;
         this.units = new Unit[10];
     }
 

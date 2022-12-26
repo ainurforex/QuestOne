@@ -8,7 +8,7 @@ public class World {
     private short yMapLenght;
     private Biom[][] dataBioms;
 
-    public World(String seed, String name, String discription, short xMapLenght, short yMapLenght) {
+    public World(String seed,  String name, String discription, short xMapLenght, short yMapLenght) {
         this.seed = seed;
         this.name = name;
         this.discription = discription;

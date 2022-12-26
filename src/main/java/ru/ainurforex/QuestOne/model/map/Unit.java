@@ -15,7 +15,7 @@ public class Unit {
 
     public Unit() {
         this.name = "none";
-        this.unitType = NONE;
+        this.unitType = NONEUNIT;
     }
 
     public String getName() {
